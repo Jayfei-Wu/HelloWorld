@@ -11,6 +11,7 @@ public class Main {
         System.out.println("first");
         System.out.println("first");
         System.out.println("冲突测试2");
+        System.out.println("push test");
 
     }
 }
