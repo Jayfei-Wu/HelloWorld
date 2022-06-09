@@ -6,5 +6,11 @@ public class Main {
         System.out.println("master2");
         System.out.println("master3");
         System.out.println("合并冲突测试1");
+        System.out.println("first");
+        System.out.println("first");
+        System.out.println("first");
+        System.out.println("first");
+        System.out.println("冲突测试2");
+
     }
 }
